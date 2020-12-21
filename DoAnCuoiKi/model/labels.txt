@@ -1,2 +1,2 @@
-0 Con Chó
-1 Con Mèo
+Con Chó
+Con Mèo
